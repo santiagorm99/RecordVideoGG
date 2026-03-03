@@ -11,11 +11,11 @@ La diferencia respecto a otras aplicaciones su fácil acceso y envío de mensaje
 ## Diseño
 
 ### Prototipo Inicial
-<img src= images/mooks/mooks-Mensajería-Pelipper-v1.drawio.png>
+<img src="images/mooks/mooks-Mensajería-Pelipper-v1.drawio.png">
 *El diseño inicial se centró en una interfaz simple y funcional.*
 
 ### Diseño Final
-<img src= images/mooks/mooks-Mensajería-Pelipper-v1.drawio.png>
+<img src="images/mooks/mooks-Mensajería-Pelipper-v1.drawio.png">
 *El diseño final implementado incluye mejoras de envío y aspecto visual*
 
 ## Tecnologías Usadas
